@@ -50,7 +50,7 @@ sudo make install
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 pantheon/
@@ -106,5 +106,4 @@ python ./src/analysis/analyze.py --data-dir results/high-latency-low-bandwidth
 - Metadata: `pantheon_perf.json`, `pantheon_metadata.json`
 - Plots: `pantheon_report.pdf`
 
----
 

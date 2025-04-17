@@ -1,0 +1,16 @@
+# 'mm-tunnelserver' '--ingress-log=/home/vamsi/pantheon/tmp/bbr_datalink_run1_flow1_uid64022111-a813-4d98-8cef-bfacccfcb0e2.log.ingress' '--egress-log=/home/vamsi/pantheon/tmp/bbr_acklink_run1_flow1_uid64022111-a813-4d98-8cef-bfacccfcb0e2.log.egress' egress: 1744911799711.594
+7487.768 - 0 - 96
+7487.848 - 1 - 96
+8543.289 - 2 - 96
+8984.301 - 3 - 96
+10483.040 - 4 - 88
+10483.072 - 5 - 88
+10483.083 - 6 - 88
+10483.092 - 7 - 88
+10483.100 - 8 - 88
+10483.107 - 9 - 88
+10483.122 - 10 - 88
+10483.130 - 11 - 88
+10483.137 - 12 - 88
+10483.196 - 13 - 88
+10483.394 - 14 - 116

@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/vamsi/pantheon/tmp/bbr_acklink_run1_flow1_uiddd827665-d2bc-42a4-91a6-5f2d6db3abb5.log.ingress' '--egress-log=/home/vamsi/pantheon/tmp/bbr_datalink_run1_flow1_uiddd827665-d2bc-42a4-91a6-5f2d6db3abb5.log.egress' '10.0.0.1' '59739' '100.64.0.2' '100.64.0.1' egress: 1744905540409.655

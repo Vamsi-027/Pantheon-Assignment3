@@ -23,6 +23,15 @@ This repository contains experiments comparing three TCP congestion control algo
 
 ---
 
+
+### Environment
+- **Host OS:** macOS  
+- **Virtualization:** UTM virtual machine  
+- **Guest OS:** Ubuntu 24.04 LTS  
+- **Pantheon Requirements:** Python 2.7, Git submodules  
+- **Mahimahi Requirements:** Autotools, libprotobuf-dev, apache2, iptables, etc.
+
+
 ## Setup Instructions
 
 ### 1. Install Pantheon and Mahimahi

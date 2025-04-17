@@ -33,7 +33,7 @@ sudo ./tools/install_deps.sh
 git submodule update --init --recursive
 ```
 
-### 2. Install Mahimahi (if not available)
+### 2. Install Mahimahi
 ```bash
 sudo apt-get install mahimahi
 ```
